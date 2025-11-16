@@ -1,5 +1,5 @@
 # 🧰 OWASP Web Application Security Testing Checklist  
-_Aligned with OWASP Web Security Testing Guide (WSTG v4.2 – Latest)_
+## Aligned with OWASP Web Security Testing Guide (WSTG v4.2 – Latest)
 
 ---
 
